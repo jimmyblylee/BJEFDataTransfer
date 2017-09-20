@@ -1,0 +1,1 @@
+序号，采集设备编号，采集设备备注, 时间(yyyyMMddHHmmss)，IMSI，IMEI, TMSI(不准确，可以忽略), LAC(2G有)
